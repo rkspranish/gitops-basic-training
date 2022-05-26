@@ -1,1 +1,2 @@
 # gitops-basic-training
+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
